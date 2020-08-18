@@ -22,4 +22,4 @@ def calc():
 
 
 
-app.run(debug=True,port=1000)    
+app.run(debug=True,port=800)    
